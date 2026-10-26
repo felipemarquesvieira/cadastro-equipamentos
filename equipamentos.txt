@@ -1,0 +1,10 @@
+
+Equipamento: Notebook Dell
+Patrimonio: PAT001
+-------------------------
+Equipamento: Monitor LG
+Patrimonio: PAT002
+-------------------------
+Equipamento: Teclado USB
+Patrimonio: PAT003
+-------------------------
