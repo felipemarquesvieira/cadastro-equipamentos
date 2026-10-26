@@ -1,4 +1,3 @@
-
 # Cadastro de Equipamentos em C
 
 ## Descrição
